@@ -1,0 +1,25 @@
+header{
+    font-family: 'Marat Sans', sans-serif;
+}
+
+.conteiner-header{
+    background: #00bea4;
+    height: 14em;
+}
+
+.logo{
+    width: 2.4em;
+    height: 2.4em;
+    position: absolute;
+    top: 1.8em;
+    left: 2em;
+}
+
+.titulo-principal{
+    font-size: 1em;
+    font-weight: 450;
+    color: aliceblue;
+    position: absolute;
+    top: 2.4em;
+    left: 5.5em;
+}
