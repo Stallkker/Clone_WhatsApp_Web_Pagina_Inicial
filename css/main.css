@@ -1,0 +1,114 @@
+.conteiner-main{
+    background: #ffffff;
+    width: 57em;
+    height: 56.2em;
+    position: absolute;
+    top: 6em;
+    right: 3.2em;
+    border: 0.1em  solid  #fff;
+    border-radius: 0.2em;
+}
+
+/*como usar*/
+
+.conteiner-comousar{
+    background: #ffffff;
+    float: left;
+    width: 60%;
+    height: 27em;
+    
+}
+
+.titulo-comousar{
+    position: absolute;
+    top: 2.5em;
+    left: 2em;
+    font-size: 1.6em;
+    font-weight: 100;
+    color: #4e4e4e;
+}
+
+.lista-comousar{
+    position: absolute;
+    top: 7em;
+    left: 2em;
+    width: 38em;
+}
+
+.itens-comousar{
+    margin: 1.3em 1.3em 0 1.3em;
+}
+
+.iten-comousar{
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    color: #3b3b3b;
+}
+
+.palavras-destaque-comousar{
+    display: inline-block;
+    font-weight: bold;
+    margin: 0.2em;
+    font-size: 1.08em;
+    color: #1d1d1d;
+}
+
+.img-comousar-icones{
+    width: 1.3em;
+    display: inline-block;
+}
+
+.a-comousar{
+    position: absolute;
+    text-decoration: none;
+    top: 27em;
+    left: 4em;
+    color: #0d9b8d;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+/*QR Code*/
+
+.conteiner-qrcode{
+    background: #fff;
+    display: inline-block;
+    text-align: center;
+    height: 27em;
+    width: 40%;
+}
+
+.img-qrcode{
+    width: 17em;
+    position: absolute;
+    top: 4em;
+    right: 3em;
+}
+
+.box-qrcode{
+    position: absolute;
+    top: 22.8em;
+    right: 16.3em;
+}
+
+.label-qrcode{
+    position: absolute;
+    top: 28.5em;
+    right: 9em;
+    font-size: 0.8em;
+    color: #797979;
+}
+
+/*Video*/
+
+.conteiner-video{
+    background: #f9f9f9;
+    height: 29em;
+}
+
+.video{
+    position: absolute;
+    bottom: 5em;
+    left: 10em;
+}
